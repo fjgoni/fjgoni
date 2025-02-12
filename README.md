@@ -29,8 +29,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fjgoni/fjgoni/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
