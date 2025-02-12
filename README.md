@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Francisco, and I like solving things that need to be solved.</h2>
+<h2 align="left">Hi, I'm Francisco, and I like solving things that need to be solved (Programmer)</h2>
 
 ###
 
