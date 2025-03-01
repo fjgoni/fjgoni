@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Francisco. I like solving real-world problems with technology.</h2>
+<h2 align="left">Hi, I'm Francisco. I like making people lives easier with technology.</h2>
 
 ###
 
